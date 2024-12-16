@@ -26,3 +26,4 @@
 /home/azizbek/github/Guess-computer-number/obj/Debug/net9.0/TestApp.pdb
 /home/azizbek/github/Guess-computer-number/obj/Debug/net9.0/TestApp.genruntimeconfig.cache
 /home/azizbek/github/Guess-computer-number/obj/Debug/net9.0/ref/TestApp.dll
+/home/azizbek/github/Guess-computer-number/obj/Debug/net9.0/TestApp.sourcelink.json
